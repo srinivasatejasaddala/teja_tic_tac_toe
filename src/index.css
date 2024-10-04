@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #102C32;
+}
+#square{
+    width: 100px;
+}
+#outermostdiv{
+    /* border: 2px solid; */
+    height: 100vh;
+    align-content: center;
+}
+#innerdiv1{
+    /* border: 2px solid; */
+    margin: auto;
+    width: 300px;
+    text-align: center;
+}
+h2,p{
+    color: #E0FFFF ;
+}
+#restart{
+    /* color: #E0E0E0; */
+}
+@media screen and(max-width:440px){
+    
+  
+}
+   
+
