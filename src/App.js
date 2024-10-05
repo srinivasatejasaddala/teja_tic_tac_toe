@@ -84,7 +84,7 @@ const handleRestart=()=>{
       
 
      <div id='innerdiv1' >
-     <button id='restart' onClick={handleRestart} className='rounded-md w-[100px] mb-4 border-[#0e0e15] bg-[#0e0e15] text-white  pt-1 pb-1 hover:bg-white hover:text-black hover:border-white border-[2px]'>Restart</button>
+     <button id='restart' onClick={handleRestart} className=' rounded-md w-[100px] mb-4 border-[#0e0e15] bg-[#0e0e15] text-white  pt-1 pb-1 lg:hover:bg-white lg:hover:border-white lg:hover:text-black lg:hover:border-white md:hover:bg-white md:hover:border-white md:hover:text-black md:hover:border-white border-[2px] '>Restart</button>
       <h2 className='m-auto mb-3 '>Turn for : <span className='text-white'>{turn}</span></h2>
       <div className='flex'>
        <Square value={stateArray[0]} index={0} handleClick={handleClick}/>
