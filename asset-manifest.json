@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/teja_tic_tac_toe/static/css/main.f35a6e1f.css",
-    "main.js": "/teja_tic_tac_toe/static/js/main.0a05f67b.js",
+    "main.css": "/teja_tic_tac_toe/static/css/main.f662633e.css",
+    "main.js": "/teja_tic_tac_toe/static/js/main.147787f9.js",
     "static/js/453.e036e8b5.chunk.js": "/teja_tic_tac_toe/static/js/453.e036e8b5.chunk.js",
     "index.html": "/teja_tic_tac_toe/index.html",
-    "main.f35a6e1f.css.map": "/teja_tic_tac_toe/static/css/main.f35a6e1f.css.map",
-    "main.0a05f67b.js.map": "/teja_tic_tac_toe/static/js/main.0a05f67b.js.map",
+    "main.f662633e.css.map": "/teja_tic_tac_toe/static/css/main.f662633e.css.map",
+    "main.147787f9.js.map": "/teja_tic_tac_toe/static/js/main.147787f9.js.map",
     "453.e036e8b5.chunk.js.map": "/teja_tic_tac_toe/static/js/453.e036e8b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f35a6e1f.css",
-    "static/js/main.0a05f67b.js"
+    "static/css/main.f662633e.css",
+    "static/js/main.147787f9.js"
   ]
 }
